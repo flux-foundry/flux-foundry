@@ -22,10 +22,5 @@ Building fast, fun games/apps and seeing how far simple ideas can be pushed. No 
 
 ---
 
-### 📈 Activity
-![Stats](https://vercel.app)
-
----
-
 #### 🤝 Let's Connect
 If you like these projects, feel free to **Star** them or follow along for whatever is dropped next!
