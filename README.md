@@ -1,16 +1,35 @@
-## Hi there 👋
+# ⚡ flux-foundry
 
-<!--
-**flux-foundry/flux-foundry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Just messing around and building games. Pushing apps to the web to see what happens.**
 
-Here are some ideas to get you started:
+### 🕹️ Main Menu
+*   **[🚀 Play Supergames](https://supergames-xl.vercel.app)** — The current project.
+*   **[📂 All Projects](https://github.com)** — Everything put on here.
+*   **[🛠️ The Code](https://github.com)** — Looking under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 What's going on here?
+Building fast, fun games and seeing how far simple ideas can be pushed. No big plans, just building stuff that looks cool and runs smooth.
+
+*   **Current focus:** Making a bunch of arcade-style games.
+*   **Thinking:** If it sounds fun, it will probably be built.
+
+---
+
+### 🛠️ The Setup
+![Gemini](https://shields.io)
+![AI Studio](https://shields.io)
+![Claude](https://shields.io)
+![Google Search](https://shields.io)
+![Vercel](https://shields.io)
+
+---
+
+### 📈 Activity
+![Stats](https://vercel.app)
+
+---
+
+#### 🤝 Let's Connect
+If you like these projects, feel free to **Star** them or follow along for whatever is dropped next!
